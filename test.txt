@@ -1,2 +1,2 @@
 Hi, I'm master branch
-THis is a second branch
+THis is a second branch//make conflict
